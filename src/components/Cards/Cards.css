@@ -1,0 +1,23 @@
+.cards {
+    display: flex;
+}
+.cards .card {
+    padding: 8px;
+    transition: all ease-in-out .3s;
+    border-radius: 4px;
+}
+.card:hover {
+    box-shadow: 0 0 8px #adadad;
+}
+.card img {
+    margin-bottom: 20px;
+}
+.card h3 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.card p.role {
+    color: #666666;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}

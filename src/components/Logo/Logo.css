@@ -1,0 +1,12 @@
+.logo {
+    letter-spacing: 2px;
+    padding: 10px;
+    transition: all ease-in-out.3s;
+}
+.logo:hover {
+    background: #ccc;
+    border-radius: 2px;
+}
+.logo strong {
+    font-weight: 700;
+}

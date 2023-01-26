@@ -1,0 +1,28 @@
+.projects h2 {
+    margin-bottom: 40px;
+}
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.project-list .project {
+    flex: 0 0 auto;
+    width: 25%;
+    padding: 7px;
+    transition: all ease-in-out .3s;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+.project-list .project:hover {
+    box-shadow: 0 0 8px #adadad;
+}
+.project-list img {
+    display: block;
+}
+.project-list p {
+    background-color: #000;
+    text-align: center;
+    padding: 12px;
+    color: #fff;
+    margin-bottom: 0;
+}
