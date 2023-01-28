@@ -12,28 +12,28 @@ const Cards = () => {
                 <h3>John Doe</h3>
                 <p className="role">CEO & Founder</p>
                 <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-                <a href="#" className="btn">Contact</a>
+                <a href="/" className="btn">Contact</a>
             </div>
             <div className="card">
                 <img src={card2} alt="Team Member 1"/>
                 <h3>John Doe</h3>
                 <p className="role">Architect</p>
                 <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-                <a href="#" className="btn">Contact</a>
+                <a href="/" className="btn">Contact</a>
             </div>
             <div className="card">
                 <img src={card3} alt="Team Member 1"/>
                 <h3>John Doe</h3>
                 <p className="role">CEO & Founder</p>
                 <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-                <a href="#" className="btn">Contact</a>
+                <a href="/" className="btn">Contact</a>
             </div>
             <div className="card">
                 <img src={card4} alt="Team Member 1"/>
                 <h3>John Doe</h3>
                 <p className="role">CEO & Founder</p>
                 <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-                <a href="#" className="btn">Contact</a>
+                <a href="/" className="btn">Contact</a>
             </div>
         </Container>
     )

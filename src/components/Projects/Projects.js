@@ -12,35 +12,35 @@ const Projects = () => {
             <h2>Projects</h2>
             <div className="project-list">
                 <div className="project">
-                    <img src={project1} />
+                    <img src={project1} alt="project" />
                     <p>Brick House</p>
                 </div>
                 <div className="project">
-                    <img src={project2} />
+                    <img src={project2} alt="project" />
                     <p>Renovated</p>
                 </div>
                 <div className="project">
-                    <img src={project3} />
+                    <img src={project3} alt="project" />
                     <p>Barn House</p>
                 </div>
                 <div className="project">
-                    <img src={project4} />
+                    <img src={project4} alt="project" />
                     <p>Summer House</p>
                 </div>
                 <div className="project">
-                    <img src={project3} />
+                    <img src={project3} alt="project" />
                     <p>Barn House</p>
                 </div>
                 <div className="project">
-                    <img src={project1} />
+                    <img src={project1} alt="project" />
                     <p>Brick House</p>
                 </div>
                 <div className="project">
-                    <img src={project4} />
+                    <img src={project4} alt="project" />
                     <p>Summer House</p>
                 </div>
                 <div className="project">
-                    <img src={project2} />
+                    <img src={project2} alt="project" />
                     <p>Renovated</p>
                 </div>
                 
